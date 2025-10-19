@@ -25,13 +25,21 @@ La fonctionnalité de **suggestion de recettes** n'est pas encore implémentée 
 ## Structure du projet
 
 SmartNourishBot/
+
 ├─ main.py # Point d'entrée de l'application
+
 ├─ tools.py # Fonctions pour extraction, filtrage, analyse et recettes
+
 ├─ models.py # Modèles Pydantic pour structurer les données
+
 ├─ app_gradio.py # Interface utilisateur graphique
+
 ├─ requirements.txt # Librairies nécessaires
+
 ├─ README.md
+
 ├─ examples/ # Images de test
+
 └─ .env # Clés API et configuration
 
 ## Execution
