@@ -1,0 +1,6 @@
+Pillow
+requests
+transformers
+torch
+pydantic
+python-dotenv
