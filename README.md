@@ -53,7 +53,7 @@ venv\Scripts\activate       # Windows
 pip install -r requirements.txt
 
 ### 4.Configurer la clé API USDA dans le fichier
-USDA_API_KEY=VOTRE_CLE_USDA_ICI (ma clé est insérer ici)
+USDA_API_KEY=VOTRE_CLE_USDA_ICI ()
 
 ## Uilisation
 ### 1. Via le terminal :
